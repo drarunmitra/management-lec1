@@ -429,7 +429,7 @@ The Systems Theory perceives an organization as an interconnected and interdepen
 
 ## Definition of Management
 
-![](images/wordcloud.svg){height="600"}
+![](images/wordcloud.svg)
 
 ## Key Takeaways {.smaller}
 
@@ -450,14 +450,16 @@ The Systems Theory perceives an organization as an interconnected and interdepen
 
 
   
-- Principles of Management
-  - Henri Fayol's 14 principles
-  
 :::
 
 ::: {.column width="45%"}
-![](images/wordcloud.svg)
 
+
+  
+- Principles of Management
+  - Henri Fayol's 14 principles
+  
+<br>
 
 ![](images/principles_management.png)
 :::
