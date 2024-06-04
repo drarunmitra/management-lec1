@@ -10,7 +10,7 @@ format:
     css: style.css
     mermaid-format: png
     
-embeded-resources: true
+self-contained: true
 ---
 
 # Learning Objectives
@@ -113,8 +113,6 @@ Management is a distinct [**process**]{.important} consisting of planning, organ
 :::
 
 
-## {-}
-![](images/google_offices.gif)
 
 ## Contingency Theory
 
