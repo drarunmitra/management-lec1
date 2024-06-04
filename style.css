@@ -1,0 +1,26 @@
+.quarto-title-block .quarto-title-banner {
+  background-image: url(images/rstudio_logo.png);
+  background-size: 300px;
+  background-position: left;
+  background-repeat: no-repeat;
+  padding-left: 10px;
+  background-origin: content-box;
+}
+
+
+.reveal .slide-logo {
+  display: block;
+  position: fixed;
+  bottom: unset !important;
+  right: unset !important;
+  top: 5px;
+  left: 12px;
+  height: 100px !important;
+  width: 100x !important;
+  max-width: unset !important;
+  max-height: unset !important;
+}
+
+.important {
+  color: maroon;
+}
