@@ -479,3 +479,199 @@ The Systems Theory perceives an organization as an interconnected and interdepen
 
 # Thank You! {-}
 
+
+
+# Management Process
+
+## The Managerial Process
+
+<br>
+<br>
+
+```{mermaid}
+%%| fig-width: 12
+%%| fig-height: 2
+graph LR;
+    A[Planning] --> B[Organising];
+    B --> C[Staffing & Directing];
+    C --> D[Decision Making];
+    D --> E[Controlling];
+    E --> F[Feedback];
+    F --> A;
+```
+
+## P-O-L-C Framework
+
+
+![](images/polc_framework.jpg)
+
+## P-O-L-C Framework
+
+![](images/ploc_framework2.png)
+
+
+# Planning
+
+- Definition: Setting objectives and determining the best way to achieve them
+- Importance: Provides direction and reduces uncertainty
+- Steps: Analysis, goal setting, action plan, implementation, evaluation
+- Continuous process with feedback loops
+
+Planning requires that managers be aware of environmental conditions facing their organization and forecast future conditions. It also requires that managers be good decision makers.
+
+## Process of Planning
+
+1. **Environmental Scanning**: Planners must be aware of critical contingencies facing their organization, such as economic conditions, competitors, and customers.
+2. **Forecasting**: Planners attempt to forecast future conditions, forming the basis for planning.
+3. **Establishing Objectives**: Objectives are statements of what needs to be achieved and when.
+4. **Identifying Alternatives**: Planners identify alternative courses of action for achieving objectives.
+5. **Decision Making**: Planners evaluate alternatives and make decisions about the best courses of action.
+6. **Formulating Steps**: Planners formulate necessary steps and ensure effective implementation of plans.
+7. **Evaluating Success**: Planners constantly evaluate the success of their plans and take corrective action when necessary.
+
+## Types of Planning
+
+- **Strategic Planning**: Analyzing competitive opportunities and threats, strengths and weaknesses of the organization, and determining how to position the organization effectively. It has a long time frame, often three years or more.
+- **Tactical Planning**: Intermediate-range planning (one to three years) designed to develop concrete means to implement the strategic plan.
+- **Operational Planning**: Short-range planning (less than a year) specifying ways to achieve organization-wide or subunit goals and objectives.
+
+
+
+## Organizing
+
+- Definition: Arranging resources and tasks to achieve objectives
+- Importance: Ensures efficient use of resources
+- Key elements: Division of labor, delegation, coordination
+
+- Role of organizational charts in clarifying roles
+
+
+## Organizational Structure
+- Framework within which effort is coordinated.
+- Represented by an organization chart.
+- Decisions about the structure are organizational design decisions.
+
+## Job Design
+- Involves decisions about duties, responsibilities, and manner of carrying out tasks.
+- Organizational decisions about jobs are referred to as “job design” decisions.
+
+## Departmentalization
+- Involves deciding how to cluster jobs into departments.
+- Methods include organizing by function, product, geography, or customer.
+- Larger organizations often use multiple methods.
+
+## Designing Individual Jobs
+- Traditional approach based on division of labor and specialization.
+- Recent trend towards balancing specialization with variety and autonomy.
+- Principles include empowerment, job enrichment, and teamwork.
+
+# Staffing
+
+- Recruiting, selecting, and training personnel
+- Ensures right people in right jobs
+- Importance: Maintaining a competent workforce
+
+- Role of HR in healthcare staffing
+
+<br>
+
+- Example: Hiring and training nurses
+
+# Directing (Leading)
+
+- Leading, motivating, and communicating with employees
+- Importance: Guides team efforts towards achieving goals
+
+- Effective communication and leadership
+- Ensuring team efficiency and morale
+
+Leading involves the social and informal sources of influence that you use to inspire action taken by others. 
+
+## Contributions of Behavioral Sciences
+- **Personality Research**: Understanding subordinates' personalities, values, attitudes, and emotions is crucial for effective leadership.
+- **Motivation Theory**: Provides insights into energizing workers to put forth productive effort.
+- **Communication Studies**: Offer direction on effective and persuasive communication.
+- **Leadership Studies**: Address questions about what makes a manager a good leader and when certain leadership styles are most appropriate and effective.
+
+# Controlling
+
+- Monitoring and adjusting ongoing activities
+- Importance: Ensures goals are being met, corrective actions taken
+- Steps: Establish standards, measure performance, compare with standards, take corrective action
+
+- Use of performance metrics to assess outcomes
+
+## Controlling Process
+- It consists of three steps: 
+  1. Establishing performance standards
+  2. Comparing actual performance against standards
+  3. Taking corrective action when necessary.
+
+## Performance Standards
+- Often stated in monetary terms (e.g., revenue, costs, profits) or other terms (e.g., units produced, quality levels).
+- Measurement methods include financial statements, sales reports, production results, customer satisfaction, and performance appraisals.
+
+## Managerial Function vs. Behavioral Control
+- Controlling in management does not imply manipulation of subordinates' personalities, values, attitudes, or emotions.
+- Instead, it focuses on ensuring work-related activities align with organizational objectives.
+
+## Relationship with Planning
+- Effective controlling requires clear performance standards provided by planning.
+- It also requires understanding responsibility for deviations from standards.
+
+## Control Techniques
+- Traditional techniques include budget and performance audits.
+- Audits involve examination and verification of records and documents.
+
+## Scope of Controlling
+- Goes beyond financial criteria to include production, operations, service delivery, and compliance with company policies.
+
+
+
+# Feedback
+
+- Definition: Information about the results of actions taken, used as a basis for improvement
+
+- Importance: Ensures continuous improvement and adaptation
+
+- Sources: Internal (staff, internal audits) and external (patients, regulatory bodies)
+
+- Enhancing decision-making and fostering a culture of continuous improvement
+
+Feedback is essential for personal and professional growth.
+- It helps individuals understand their strengths and areas for improvement.
+
+## Types of Feedback
+- **Constructive Feedback**: Provides specific suggestions for improvement in a supportive manner.
+- **Positive Feedback**: Acknowledges and reinforces desirable behavior or outcomes.
+- **Negative Feedback**: Highlights areas for improvement or corrective action.
+
+## Principles of Effective Feedback
+- **Timeliness**: Feedback should be provided promptly after the observed behavior.
+- **Specificity**: Feedback should be clear, specific, and focused on behavior rather than personality.
+- **Balance**: Include both positive and negative feedback to provide a well-rounded perspective.
+- **Actionable**: Feedback should be actionable, providing concrete steps for improvement.
+- **Respectful**: Feedback should be delivered respectfully, maintaining dignity and professionalism.
+
+## Giving Feedback
+- **Be Prepared**: Organize your thoughts and observations before providing feedback.
+- **Be Objective**: Base feedback on observable behaviors and facts rather than assumptions or opinions.
+- **Be Constructive**: Offer solutions and suggestions for improvement rather than criticism.
+- **Be Receptive**: Encourage dialogue and listen to the recipient's perspective.
+
+## Receiving Feedback
+- **Be Open-Minded**: Approach feedback with a willingness to learn and grow.
+- **Seek Clarification**: If feedback is unclear, ask for specific examples or further explanation.
+- **Focus on Improvement**: Use feedback as an opportunity for self-reflection and growth.
+- **Express Appreciation**: Thank the giver for their feedback, regardless of its nature.
+
+
+
+# Recap
+![](images/management_i_o.png)
+
+# Questions? {-}
+
+
+# Thank You! {-}
+
