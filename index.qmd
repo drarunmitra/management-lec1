@@ -675,3 +675,73 @@ Feedback is essential for personal and professional growth.
 
 # Thank You! {-}
 
+# Steps of Planning Cycle
+
+## Introduction
+Planning is the process that involves:
+
+1. defining a problem, 
+2. assessing the extent to which the problem affects society, 
+3. formulating goals to solve the problem, 
+4. assessing various intervention measures based on their advantages and disadvantages, 
+5. selecting the best mode of action, 
+6. taking steps to implement it, 
+7. monitoring the progress of the implemented system, and 
+8. evaluating the results.
+
+# Steps of a Planning Cycle
+
+
+## Introduction to Planning
+- Planning involves defining a problem, assessing its impact, formulating goals, evaluating intervention measures, selecting the best action, implementing it, monitoring progress, and evaluating results.
+
+- Essential for achieving specific health goals and efficient resource use.
+
+## 1: Analysis of the Situation
+- **Step 1: Situational Analysis**
+  - **Key Aspects to Study**:
+    - Population: age and sex structure
+    - Morbidity and mortality values
+    - Epidemiology and geographic distribution of the disease
+    - Existing healthcare facilities
+    - Available technical manpower
+    - Training facilities for healthcare staff
+    - Community awareness regarding the disease
+
+## 2: Setting Objectives and Goals
+- **Step 2: List out Objectives and Goals**
+  - Objectives must be clear to implement a plan efficiently.
+  - Central level objectives are general; they become more specific at successive levels.
+
+## 3: Assessment of Resources
+- **Step 3: Assess Resources**
+  - Assess the available material, capital, and human resources.
+
+## 4: Fixing Priorities
+- **Step 4: Fix Priorities**
+  - Limited resources necessitate prioritizing goals.
+  - Allocate resources to priority goals.
+
+## 5: Writing the Plan
+- **Step 5: Write up Formulated Plan**
+  - Develop a systematic plan to achieve prioritized goals.
+  - Include major steps, required resources, and expected outcomes.
+
+## 6: Programming and Implementation
+- **Step 6: Programming and Implementation**
+  - Implement the approved plan with proper administrative support.
+  - Even a good plan can fail if not properly implemented.
+
+## 7: Monitoring
+- **Step 7: Monitoring**
+  - Monitor the day-to-day functioning of the program.
+  - Implement suggestions for improvement.
+
+## 8: Evaluation
+- **Step 8: Evaluation**
+  - Evaluate the final outcome of the plan.
+  - A good plan includes an in-built evaluation system.
+
+## Summary {.inverse background-color="black"}
+
+![](images/Health-Planning-Cycle-Johnson-2008.png)

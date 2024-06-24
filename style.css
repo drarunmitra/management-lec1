@@ -24,3 +24,7 @@
 .important {
   color: maroon;
 }
+
+.inverse h1 {
+   color: white;
+ }
