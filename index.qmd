@@ -745,3 +745,119 @@ Planning is the process that involves:
 ## Summary {.inverse background-color="black"}
 
 ![](images/Health-Planning-Cycle-Johnson-2008.png)
+# Thank You!
+
+
+# Modern Management Techniques
+
+
+## Traditional Management Techniques
+
+- Personnel Selection
+- Training
+- Team Building
+- Motivation
+- Leadership Development etc
+
+## Modern Management Techniques
+
+Developed Post World War - II
+
+Rely on:
+
+- mathematics, 
+- statistics,
+- economics etc.
+
+Proved to be effective in multiple streams: business, industry, defence, etc.
+
+Enable critical analysis of competing interests on scarce resources and priorities.
+
+## Emergence of Operations Research (OR)
+
+Employs methods from mathematical modelling, statistical analysis, optimization techniques.
+
+Provides optimal/near-optimal solutions for complex decision-making problems
+
+Overlapping field of:
+- production engineering
+- operational management
+- organisational science
+
+## Father of Modern Management 
+
+![](images/mmt_quote.jpg)
+
+## Defining "Technique" or "Method"
+
+:::{.callout-note}
+### Method
+
+'a manner or means of procedure'
+
+:::
+
+
+:::{.callout-note}
+### Technique
+
+'a systematic procedure by which a complex or scientific task is accomplished'
+
+:::
+
+## Classification of Modern Management Techniques
+
+- Management by objectives
+- Management by results
+- Management by projects
+- Management by exception
+- Management by budget
+
+## Classification of Modern Management Techniques
+
+- Statistical Techniques
+- Activity Analysis
+- Mathematical Techniques
+- Financial Techniques
+- Miscellaneous
+
+## Statistical Techniques
+
+- Time Trends and Forecasting
+- Decision Theory and Decision Tree
+- Six Sigma
+
+## Activity Analysis
+
+- Time Motion Studies
+- Work Sampling and Activity Analysis
+- Queuing Theory
+- Gantt Chart and Work Schedule
+
+## Mathematical Techniques
+- Simulation Studies/Models
+- Systems Analysis
+- Linear Programming
+- Inventory Control
+- Network Analysis
+- Program Evaluation Review Technique (PERT)
+- Critital Path Method (CPM)
+
+## Financial Techniques
+
+- Budgeting
+- Cost Benefit Analysis
+- Cost Effectiveness Analysis
+- Planning - Programming - Budgeting System (PPBS)
+- Zero Base Budgeting
+
+
+## Miscellaneous
+
+- Situational Analysis
+- SWOT Analysis
+- Log-Frame Analysis
+
+
+
+
