@@ -3,13 +3,13 @@ title: "Basics of Health Management"
 author: "Dr Arun Mitra"
 institute: "Dept of Community and Family Medicine, AIIMS, Bibinagar"
 date: today
-format: 
+format:
   revealjs:
     slide-number: true
     logo: aiims_bibinagar_logo.png
     css: style.css
     mermaid-format: png
-    
+
 self-contained: true
 ---
 
@@ -863,3 +863,230 @@ Overlapping field of:
 
 
 
+# Inventory Control in Healthcare
+
+---
+
+## What is Inventory Control?
+
+- Supervision of supply, storage, and accessibility of items
+- Ensures adequate supply without excessive oversupply
+- Aims to have the right amount of materials at the right place, time, and cost
+
+---
+
+## Importance of Inventory Control
+
+- Inventories can represent 50-70% of capital investment
+- Balancing act:
+  - Too low: Risk of delays in fulfilling orders
+  - Too high: Ties up capital, risk of obsolescence and spoilage
+- In hospitals: ~1/3 of annual budget spent on medicines
+
+---
+
+## Inventory Control Techniques
+
+1. ABC Analysis
+2. VED Analysis
+3. ABC-VED Matrix
+4. Fixed Order Size System (Q-system)
+5. Fixed Order Interval System (T-system)
+
+---
+
+## ABC Analysis
+
+- Based on Pareto principle (80-20 rule)
+- Categorizes items based on annual consumption value:
+  - A items: 70% of value, 10% of items
+  - B items: 20% of value, 20% of items
+  - C items: 10% of value, 70% of items
+
+## ABC Analysis
+
+```{mermaid}
+pie title ABC Analysis
+    "A Items (70% value)" : 70
+    "B Items (20% value)" : 20
+    "C Items (10% value)" : 10
+```
+
+---
+
+![](images/paretos.jpg)
+
+## VED Analysis
+
+- Categorizes items based on criticality:
+  - Vital (V): Critical for patient survival
+  - Essential (E): Lower critical need
+  - Desirable (D): Lowest criticality
+
+---
+
+## VED Analysis
+
+```{mermaid}
+%%| fig-width: 50%
+
+graph TD
+    A[Inventory Items] --> B[Vital]
+    A --> C[Essential]
+    A --> D[Desirable]
+    B --> E[Critical for patient survival]
+    C --> F[Lower critical need]
+    D --> G[Lowest criticality]
+```
+
+
+## ABC-VED Matrix
+
+- Combines ABC and VED analyses
+- Helps prioritize items for management attention:
+  - Category I: High priority (AV, BV, CV, AE, AD)
+  - Category II: Moderate priority (BE, CE)
+  - Category III: Low priority (CD)
+
+---
+
+## ABC-VED Matrix
+
+```{mermaid}
+graph TD
+    A[ABC-VED Matrix] --> B[Category I]
+    A --> C[Category II]
+    A --> D[Category III]
+    B --> E[High Priority]
+    C --> F[Moderate Priority]
+    D --> G[Low Priority]
+    E --> H[AV, BV, CV, AE, AD]
+    F --> I[BE, CE]
+    G --> J[CD]
+```
+
+
+## Fixed Order Size System (Q-system)
+
+- Order size (Q) is fixed
+- Time between orders may vary
+- Reorder point determined by usage rate and lead time
+
+---
+
+## Fixed Order Size System (Q-system)
+
+```{mermaid}
+graph LR
+    A[Inventory Level] --> B[Reorder Point]
+    B --> C[Place Order]
+    C --> D[Fixed Order Size Q]
+    D --> E[Receive Order]
+    E --> A
+```
+
+## Fixed Order Interval System (T-system)
+
+- Time between orders (T) is fixed
+- Order size varies to reach maximum stock level
+- Suitable for items with stable demand
+
+---
+
+## Fixed Order Interval System (T-system)
+
+```{mermaid}
+graph LR
+    A[Fixed Time Interval] --> B[Review Inventory]
+    B --> C[Calculate Order Size]
+    C --> D[Place Order]
+    D --> E[Receive Order]
+    E --> A
+```
+
+
+## Minimum/Maximum Inventory Control
+
+- Helps avoid stock-outs, inadequate stock, and excess stock
+- Key levels:
+  - Maximum stock level (Ideal Inventory)
+  - Minimum stock (Reorder level/point)
+  - Buffer stock (Safety Stock)
+
+---
+
+![](images/inventory_reorder.png)
+
+---
+
+![](images/inventory_reorder_2.png)
+
+
+## Benefits of Effective Inventory Control
+
+- Reduces tied-up capital
+- Minimizes storage costs
+- Reduces risk of expiration and obsolescence
+- Ensures availability of critical items
+- Improves overall operational efficiency
+
+---
+
+## Challenges in Healthcare Inventory Management
+
+- Diverse range of items (pharmaceuticals, medical supplies, equipment)
+- Critical nature of many items
+- Expiration dates and shelf life
+- Fluctuating demand
+- Regulatory compliance
+
+---
+
+## Technology in Inventory Control
+
+- Barcode systems
+- RFID technology
+- Automated dispensing cabinets
+- Inventory management software
+- Integration with Electronic Health Records (EHR)
+
+---
+
+```{mermaid}
+flowchart LR
+    A[Inventory Control Technologies] --> B[Barcode Systems]
+    A --> C[RFID Technology]
+    A --> D[Automated Dispensing Cabinets]
+    A --> E[Inventory Management Software]
+    A --> F[EHR Integration]
+    B & C & D & E --> G[Real-time Tracking]
+    E & F --> H[Data Analytics]
+```
+
+## Best Practices
+
+1. Regular audits and cycle counting
+2. Use of data analytics for demand forecasting
+3. Collaboration with suppliers
+4. Staff training on inventory management
+5. Lean inventory management principles
+6. Continuous improvement processes
+
+---
+
+## Conclusion
+
+- Effective inventory control is crucial for healthcare organizations
+- Balances cost efficiency with patient care quality
+- Requires a combination of techniques and technologies
+- Continuous monitoring and adaptation are key to success
+
+## Additional Resources
+
+Gupta R, Gupta KK, Jain BR, Garg RK. ABC and VED Analysis in Medical Stores Inventory Control. Med J Armed Forces India. 2007 Oct;63(4):325-7. doi: 10.1016/S0377-1237(07)80006-2. Epub 2011 Jul 21. PMID: 27408040; PMCID: PMC4922040.
+
+<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4922040/pdf/main.pdf>
+
+![](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4922040/pdf/main.pdf)
+
+# Thank You!
